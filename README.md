@@ -1,6 +1,6 @@
 ## 🚀 Install the project
 
-
+Clone the repository: https://github.com/labittencourt/desafioIteris.git
 Install project dependencies with: npm i
 
 ## Run the demo:
