@@ -1,0 +1,10 @@
+{
+    "cucumberautocomplete.steps": [
+        "cypress/e2e/step_definitions/*.js",
+        "node_modules/qa-lib/src/step_definitions/*.js"
+    ],
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "cuke_step_definition_file_path": "cypress/e2e/step_definitions/global.js",
+    "javascript.implicitProjectConfig.experimetalDecorators": true
+
+}
